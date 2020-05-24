@@ -1,4 +1,0 @@
-mv (option) file1.ext file2.ext //moving file
-rm -f filename
-
-browser-sync start -server -directory --files "*" 
