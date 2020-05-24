@@ -1,0 +1,3 @@
+mv (option) file1.ext file2.ext //moving file
+rm -f filename
+
